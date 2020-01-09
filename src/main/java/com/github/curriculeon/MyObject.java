@@ -4,6 +4,5 @@ public class MyObject extends Item{
 
     public MyObject() {
 
-        this.setItemName("Paper");
     }
 }
